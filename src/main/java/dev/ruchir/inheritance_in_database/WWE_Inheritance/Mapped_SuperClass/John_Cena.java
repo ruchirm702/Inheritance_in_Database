@@ -1,4 +1,4 @@
-package dev.ruchir.inheritance_in_database.WWE_Inheritance.Mapped_Joined_Table;
+package dev.ruchir.inheritance_in_database.WWE_Inheritance.Mapped_SuperClass;
 
 import jakarta.persistence.Entity;
 import lombok.Getter;
