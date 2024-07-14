@@ -16,9 +16,7 @@ The following WWE players are used as entities to demonstrate the inheritance st
 - John Cena
 - Undertaker
 - Triple H
-- Kane
 - Goldberg
-- Brock Lesnar
 
 ## Setup
 
@@ -27,7 +25,7 @@ The following WWE players are used as entities to demonstrate the inheritance st
 - MySQL Server
 - Maven
 
-### Configuration
+## Configuration
 1. **Configure MySQL database settings:**
    - Navigate to `src/main/resources/application.properties`.
    - Update the following properties with your MySQL database configuration:
@@ -44,8 +42,8 @@ The following WWE players are used as entities to demonstrate the inheritance st
    cd /path/to/your/project
    mvn clean install
 
-###Usage
+### Usage
 Run the application to see how different inheritance strategies are implemented and interact with the MySQL database.
 
-###Contributions
+### Contributions
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
